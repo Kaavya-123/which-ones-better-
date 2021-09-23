@@ -1,0 +1,13 @@
+.text_image_and_result
+{
+    background-color:palevioletred;
+    color: black;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 5px rgb(38, 194, 186);
+    border-radius: 5px;
+}
+image{
+border-radius: 5px;
+width:10px;
+height:10px;
+}
